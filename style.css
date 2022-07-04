@@ -1,0 +1,40 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+.orange {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.link_button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.top_banner {
+    background-image: url(1/images.png);
+    background-repeat: no-repeat;
+}
